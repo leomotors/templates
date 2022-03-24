@@ -6,7 +6,7 @@ Collection of my super personalized project templates
 
 - ts-library -> Template for creating npm library/package with TypeScript and Mocha Test
 
-- Svelte Templates (Soon)
+- svelte-static -> Template for making Static SveltKit Website, to be deployed at GitHub Pages
 
 ## Cloning
 
