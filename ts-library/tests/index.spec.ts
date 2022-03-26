@@ -1,9 +1,9 @@
-import { assert } from "chai";
-
 import { hello } from "../src";
+
+import { output } from "./sample.json";
 
 describe("Test Index", () => {
     it("hello should returns Hello World", () => {
-        assert.equal(hello(), "Hello World!");
+        expect(hello()).toBe(output);
     });
 });

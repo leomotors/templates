@@ -4,7 +4,7 @@ Collection of my super personalized project templates
 
 ## Template List
 
-- ts-library -> Template for creating npm library/package with TypeScript and Mocha Test
+- ts-library -> Template for creating npm library/package with TypeScript, Unit Test and TypeDocs (GitHub Actions)
 
 - svelte-static -> Template for making Static SveltKit Website, to be deployed at GitHub Pages
 
