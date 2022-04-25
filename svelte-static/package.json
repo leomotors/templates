@@ -21,12 +21,12 @@
   "devDependencies": {
     "@playwright/test": "^1.21.1",
     "@sveltejs/adapter-static": "^1.0.0-next.29",
-    "@sveltejs/kit": "1.0.0-next.317",
+    "@sveltejs/kit": "1.0.0-next.320",
     "@types/tailwindcss": "^3.0.10",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "autoprefixer": "^10.4.4",
-    "eslint": "^8.13.0",
+    "autoprefixer": "^10.4.5",
+    "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-svelte3": "^3.4.1",
     "globby": "^13.1.1",
@@ -39,7 +39,7 @@
     "svelte-check": "^2.7.0",
     "svelte-preprocess": "^4.10.6",
     "tailwindcss": "^3.0.24",
-    "tslib": "^2.3.1",
-    "typescript": "~4.6.3"
+    "tslib": "^2.4.0",
+    "typescript": "^4.6.3"
   }
 }
