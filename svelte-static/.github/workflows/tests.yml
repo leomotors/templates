@@ -19,7 +19,7 @@ jobs:
         run: yarn build
       - name: ESLint & Prettier Check
         run: yarn lint
-      - name: Jest Test
+      - name: Install Browsers for Playwright
+        run: npx playwright install
+      - name: Playwright Test
         run: yarn test
-      - name: Generating Documents Test
-        run: yarn docs
