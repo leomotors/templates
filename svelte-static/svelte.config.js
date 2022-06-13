@@ -17,7 +17,6 @@ export default {
     adapter: adapter({
       pages: "build",
       assets: "build",
-      fallback: null,
     }),
     prerender: {
       default: true,
